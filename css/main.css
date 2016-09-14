@@ -1,0 +1,85 @@
+
+.logo {
+	height: auto;
+	width: 20%;
+	margin-left: 25%;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	padding: 15px;
+	margin-top:-8%;
+	font-family: 'Open Sans';
+}
+ul {
+	margin-left: 82px;
+    margin-top: 1%;
+
+}
+a {
+	font-size: 20px;
+	color: grey;
+}
+
+
+.features :hover {
+	color:#35b984;
+}
+.fondo {
+	height: auto;
+	width: 100%;
+	background-color: grey;
+}
+.beauty {
+	font-size: 62px;
+	color:white;
+	font-family: 'Open Sans';
+	margin-left: 172px;
+	margin-top: 50px;
+}
+.descripcion {
+	font-size: 15px;
+	color: white;
+	margin-left: 172px;
+	margin-top: 50px;
+	margin-bottom:50px;
+}
+.formulario {
+	background-color: darkgrey;
+	margin-top: 50px;
+	width: 201px;
+	height:144px;
+	border-radius: 5px;
+	font-family: 'Open Sans';
+}
+.get {
+	padding: 10px;
+	color: white;
+	text-align: center;
+
+}
+.nombre, .email {
+	margin-left: 14px;	
+	width: 170px;
+	height: 22px;
+}
+.suscribete {
+	width: 170px;
+	height: 22px;
+	background-color: #32A7F9;
+	border-radius: 5px;
+	margin-left: 14px;
+	border-color: #32A7F9;
+}
+.futer , .blue{
+	display: inline-block;
+	margin-left: 44px;	
+	margin-top: 20px;
+	color: grey;
+	font-size: 13px;
+
+}
+span {
+	color: blue;
+}
+
